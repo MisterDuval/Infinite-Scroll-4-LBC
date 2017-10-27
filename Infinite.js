@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name InfiniteScroll4LBC
-// @include http*://www.leboncoin.fr/*
 // @grant unsafeWindow
+// @name     InfiniteScroll4LBC
+// @include   http*://www.leboncoin.fr/*
 //
 // ==/UserScript==
 
